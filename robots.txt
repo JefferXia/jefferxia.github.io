@@ -1,0 +1,8 @@
+---
+layout: none
+---
+User-agent: *
+Disallow: http://www.notforbuy.com/css/
+Disallow: http://www.notforbuy.com/js/
+
+Sitemap: http://www.notforbuy.com/sitemap.xml
