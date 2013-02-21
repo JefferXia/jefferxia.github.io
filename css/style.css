@@ -29,6 +29,7 @@ p { line-height:1.6; }
 /* 通用 */
 body { font: 12px Arial,Helvetica,sans-serif;color: #fff;line-height: 18px;background:#335B81 url(../images/bg.jpg) no-repeat center fixed;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover; } 
 .round { border-radius: 50%; } 
+.warning { width:100%;color:#fff;font-size:12px;height:22px;line-height:22px;text-align:center;margin-bottom:13px;padding:11px 0;background:#BE3B3B;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;text-shadow:1px 1px 1px #A82626;position:relative; } 
 #i { position: relative;margin: 0 auto;width: 800px;overflow: hidden; } 
 #i header { margin: 0 auto;width: 300px;padding: 50px 0px 20px 0px; } 
 #i #logo { width: 100%;line-height: 1.2;color: #fff;text-align: center;cursor: pointer;font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';font-size: 46px;text-transform: uppercase;font-weight: normal; } 
